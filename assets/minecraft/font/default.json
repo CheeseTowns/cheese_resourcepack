@@ -1,0 +1,30 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "default.ttf",
+            "shift": [0, 0.5],
+			"size": 8.0,
+			"oversample": 16.0,
+            "skip": ["去","我"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:logo/001.png",
+            "ascent": 66 ,
+            "height": 106 ,
+            "chars": [
+                "去"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:logo/ikon/coin.png",
+            "ascent": 6 ,
+            "height": 6 ,
+            "chars": [
+                "我"
+            ]
+        }
+	]
+}
