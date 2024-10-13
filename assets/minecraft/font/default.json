@@ -6,24 +6,60 @@
             "shift": [0, 0.5],
 			"size": 8.0,
 			"oversample": 16.0,
-            "skip": ["去","我"]
+            "skip": ["去","我", "安", "升", "上", "響"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:logo/001.png",
-            "ascent": 66 ,
-            "height": 106 ,
+            "ascent": 32 ,
+            "height": 32 ,
             "chars": [
                 "去"
             ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:logo/ikon/coin.png",
+            "file": "minecraft:logo/icon/coin.png",
             "ascent": 6 ,
-            "height": 6 ,
+            "height": 8 ,
             "chars": [
                 "我"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:logo/icon/male.png",
+            "ascent": 6 ,
+            "height": 8 ,
+            "chars": [
+                "安"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:logo/icon/magnet.png",
+            "ascent": 6 ,
+            "height": 8 ,
+            "chars": [
+                "升"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:logo/icon/cheese.png",
+            "ascent": 6 ,
+            "height": 8 ,
+            "chars": [
+                "上"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:logo/icon/ruby.png",
+            "ascent": 6 ,
+            "height": 8 ,
+            "chars": [
+                "響"
             ]
         }
 	]
